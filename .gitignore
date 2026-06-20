@@ -40,7 +40,6 @@ crashlytics-build.properties
 *.opendb
 *.VC.db
 *.DotSettings.user
-
 # Plugin / package cache files that should not be committed
 [Aa]ssets/Plugins/Editor/JetBrains*
 [Aa]ssets/StreamingAssets/aa*
